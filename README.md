@@ -1,5 +1,6 @@
 # project-one
 A shared repo for first project
+(Original Repo located here: https://github.com/sunnimae/project-one)
 
 ## Crime Data Analysis over the 5 major cities in Texas
 
